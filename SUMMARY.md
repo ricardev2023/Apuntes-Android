@@ -6,3 +6,15 @@
 * [Apuntes Blue Team](https://ajcruz15.gitbook.io/blue-team/)
 * [Apuntes Python](https://ajcruz15.gitbook.io/apuntes-python/)
 * [strelock15 github](https://github.com/strelock15)
+
+## Escribiendo tu primera App
+
+* [INSTALAR ANDROID STUDIO](escribiendo-tu-primera-app/instalar-android-studio.md)
+* [CREAR TU PRIMER PROYECTO](escribiendo-tu-primera-app/crear-tu-primer-proyecto.md)
+* [EJECUTAR TU PRIMERA APP](escribiendo-tu-primera-app/ejecutar-tu-primera-app.md)
+* [ANATOMÍA DE LA APLICACIÓN](escribiendo-tu-primera-app/anatomia-de-la-aplicacion.md)
+* [ACTIVITIES Y LAYOUTS](escribiendo-tu-primera-app/activities-y-layouts.md)
+* [VIEWS](escribiendo-tu-primera-app/views.md)
+* [NAMESPACES](escribiendo-tu-primera-app/namespaces.md)
+* [GRADLE](escribiendo-tu-primera-app/gradle.md)
+* [COMPATIBILIDAD](escribiendo-tu-primera-app/compatibilidad.md)
