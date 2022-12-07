@@ -10,6 +10,8 @@ description: En esta sección instalaremos el IDE Android Studio
 
 Android Studio es el entorno de desarrollo integrado (IDE) oficial para el desarrollo de apps para Android y está basado en IntelliJ IDEA. Además del potente editor de códigos y las herramientas para desarrolladores de IntelliJ, Android Studio ofrece incluso más funciones que aumentan tu productividad cuando desarrollas apps para Android, como las siguientes:
 
+<figure><img src="../.gitbook/assets/ejemplo-studio.png" alt=""><figcaption><p>Ejemplo Android Studio</p></figcaption></figure>
+
 * Un sistema de compilación flexible basado en Gradle.
 * Un emulador rápido y cargado de funciones.
 * Un entorno unificado donde puedes desarrollar para todos los dispositivos Android.
