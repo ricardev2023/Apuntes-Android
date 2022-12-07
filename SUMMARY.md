@@ -10,8 +10,8 @@
 ## Escribiendo tu primera App
 
 * [INSTALAR ANDROID STUDIO](escribiendo-tu-primera-app/instalar-android-studio.md)
-* [PROYECTO](escribiendo-tu-primera-app/proyecto.md)
-* [EJECUTAR TU PRIMERA APP](escribiendo-tu-primera-app/ejecutar-tu-primera-app.md)
+* [PROYECTO](escribiendo-tu-primera-app/crear-tu-primer-proyecto.md)
+* [EJECUTAR UNA APP](escribiendo-tu-primera-app/ejecutar-una-app.md)
 * [ANATOMÍA DE LA APLICACIÓN](escribiendo-tu-primera-app/anatomia-de-la-aplicacion.md)
 * [ACTIVITIES Y LAYOUTS](escribiendo-tu-primera-app/activities-y-layouts.md)
 * [VIEWS](escribiendo-tu-primera-app/views.md)
