@@ -58,7 +58,7 @@ La clase ViewGroup tambien define la clase `android.view.ViewGroup.LayoutParams`
 Esta clase describe cuanto de grande va a ser la View tanto de ancho como de alto. Para ambas dimensiones puede ser uno de los siguientes valores:
 
 * MATCH\_PARENT -> La View será tan grande como su padre (menos el Padding).
-* WRAP\_CONTENT -> La View será tan grande como sea necesario para el contenido de la misma (más el Padding)
+* WRAP\_CONTENT -> La View será tan grande como sea necesario para el contenido de la misma (más el Padding).
 * Un número exacto.
 
 Existen subclases de LayoutParams para las diferentes subclases de ViewGroup. Por ejemplo, no son los mismos parámetros para AbsoluteLayout que RelativeLayout.
