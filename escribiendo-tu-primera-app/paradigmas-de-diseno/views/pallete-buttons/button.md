@@ -227,7 +227,7 @@ Posteriormente, solo tenemos que cambiar el atributo android:background y elimin
     android:drawableStart="@drawable/ic_email"/>
 ```
 
-![](<../../../../.gitbook/assets/image (4).png>)
+![](<../../../../.gitbook/assets/image (4) (1).png>)
 
 ### Ejemplo 3:
 
@@ -266,7 +266,7 @@ Posteriormente retocamos la View en activity\_main.xml:
     android:drawableStart="@drawable/ic_email"/>
 </code></pre>
 
-![](<../../../../.gitbook/assets/image (10).png>)
+![](<../../../../.gitbook/assets/image (10) (1).png>)
 
 Por último si retocamos el icono de email para que cuadre con la paleta de colores utilizada, cambiamos el color de la fuente, retocamos las esquinas y añadimos un poco de padding, tenemos un botón muy bonito y perfectamente funcional:
 

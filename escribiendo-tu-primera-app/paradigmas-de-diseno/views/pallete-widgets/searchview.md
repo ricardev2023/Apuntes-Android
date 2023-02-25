@@ -200,6 +200,6 @@ class MainActivity : AppCompatActivity() {
 ```
 {% endcode %}
 
-![](<../../../../.gitbook/assets/image (7).png>)                               ![](<../../../../.gitbook/assets/image (44).png>)
+![](<../../../../.gitbook/assets/image (7) (1).png>)                               ![](<../../../../.gitbook/assets/image (44).png>)
 
 &#x20;                                                ![](<../../../../.gitbook/assets/image (36).png>)

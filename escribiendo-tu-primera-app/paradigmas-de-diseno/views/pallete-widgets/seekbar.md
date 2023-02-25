@@ -241,6 +241,6 @@ Cuando se está produciendo el cambio, hay una serie de marcadores que se actual
 Cuando pulsamos el botón inferior, la App entiende que ha sido el sistema el que ha modificado el progreso.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (2).png>)                               ![](<../../../../.gitbook/assets/image (49).png>)
+![](<../../../../.gitbook/assets/image (2) (1).png>)                               ![](<../../../../.gitbook/assets/image (49).png>)
 
-&#x20;                                                 ![](<../../../../.gitbook/assets/image (34).png>)
+&#x20;                                                 ![](<../../../../.gitbook/assets/image (34) (1).png>)

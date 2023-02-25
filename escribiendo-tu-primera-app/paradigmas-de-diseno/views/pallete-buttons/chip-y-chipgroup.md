@@ -608,7 +608,7 @@ En este caso en las líneas 44 y 46 vemos que tambien es necesario realizar cast
 
 ![](<../../../../.gitbook/assets/image (81).png>)                             ![](<../../../../.gitbook/assets/image (86).png>)
 
-![](<../../../../.gitbook/assets/image (54).png>)                              ![](<../../../../.gitbook/assets/image (98).png>)
+![](<../../../../.gitbook/assets/image (54) (1).png>)                              ![](<../../../../.gitbook/assets/image (98).png>)
 
 ### Modificar estilo de nuevos Chips
 

@@ -87,7 +87,7 @@ Como hemos visto, un `RadioGroup` contiene varios `RadioButtons`. Por este motiv
 ```
 {% endcode %}
 
-![](<../../../../.gitbook/assets/image (71).png>)                             ![](<../../../../.gitbook/assets/image (46).png>)
+![](<../../../../.gitbook/assets/image (71).png>)                             ![](<../../../../.gitbook/assets/image (46) (1).png>)
 
 {% hint style="info" %}
 **IMPORTANTE**

@@ -30,7 +30,7 @@ Se puede utilizar un progreso secundario como en las ProgressBar para mostrar al
     android:rating="3.5"/>
 ```
 
-&#x20;                                              ![](<../../../../.gitbook/assets/image (9).png>)
+&#x20;                                              ![](<../../../../.gitbook/assets/image (9) (1).png>)
 
 ## ATRIBUTOS
 

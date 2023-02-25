@@ -84,7 +84,7 @@ xmlns:tools="http://schemas.android.com/tools"
 ```
 {% endcode %}
 
-&#x20;                                               ![](<../../../../.gitbook/assets/image (8).png>)
+&#x20;                                               ![](<../../../../.gitbook/assets/image (8) (1).png>)
 
 {% hint style="danger" %}
 No se muestra nada en las VideoViews por que es necesario configurar la VideoView antes de poder hacer uso de ella.

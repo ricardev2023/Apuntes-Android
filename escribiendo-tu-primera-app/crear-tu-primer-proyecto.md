@@ -4,7 +4,7 @@ description: >-
   Studio.
 ---
 
-# PROYECTO
+# Proyecto
 
 ## CREANDO EL PRIMER PROYECTO
 
@@ -33,7 +33,7 @@ Para iniciar un nuevo proyecto, clicamos en "**New Project**"
 
 <figure><img src="../.gitbook/assets/new-project.png" alt=""><figcaption><p>new Project</p></figcaption></figure>
 
-Tras clicar en "New Project" seremos recibidos con la imagen superior. En ella podremos seleccionar el tipo de aplicación que queremos desarrollar así como el tipo de [actividad principal](activities-y-layouts.md) que se creará en nuestro nuevo proyecto.&#x20;
+Tras clicar en "New Project" seremos recibidos con la imagen superior. En ella podremos seleccionar el tipo de aplicación que queremos desarrollar así como el tipo de [actividad principal](layouts/) que se creará en nuestro nuevo proyecto.&#x20;
 
 Para empezar, seleccionaremos la actividad vacía o "**Empty Activity**" y clicaremos en "**next"**.
 

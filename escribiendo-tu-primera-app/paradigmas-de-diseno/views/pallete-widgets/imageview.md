@@ -25,7 +25,7 @@ ImageView es tambien utilizado para aplicar colores a una imagen o escalarlas, h
     android:src="@drawable/im_pyramidhead"/>
 ```
 
-&#x20;                                                   ![](<../../../../.gitbook/assets/image (43).png>)
+&#x20;                                                   ![](<../../../../.gitbook/assets/image (43) (1).png>)
 
 ## ATRIBUTOS
 

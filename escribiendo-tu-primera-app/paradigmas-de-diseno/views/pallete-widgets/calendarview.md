@@ -161,7 +161,7 @@ class MainActivity : AppCompatActivity() {
 }
 ```
 
-![](<../../../../.gitbook/assets/image (111).png>)                               ![](<../../../../.gitbook/assets/image (21).png>)
+![](<../../../../.gitbook/assets/image (111).png>)                               ![](<../../../../.gitbook/assets/image (21) (1).png>)
 
 {% hint style="info" %}
 Es importante tener en cuenta que el mes se maneja como un Array y por lo tanto, los meses van de 0 a 11 a nivel interno.

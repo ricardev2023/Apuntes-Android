@@ -120,7 +120,7 @@ xmlns:tools="http://schemas.android.com/tools"
 ```
 {% endcode %}
 
-&#x20;                                               ![](<../../../../.gitbook/assets/image (11).png>)
+&#x20;                                               ![](<../../../../.gitbook/assets/image (11) (1).png>)
 
 ## ATRIBUTOS
 
@@ -342,4 +342,4 @@ La función progressManager(ProgressBar) debe contener el código que gestiona e
 En el ejemplo se hace por tiempo para que vean que en este punto del código, se puede incluir código arbitrario.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (14).png>)                               ![](<../../../../.gitbook/assets/image (1).png>) ![](<../../../../.gitbook/assets/image (17).png>)                               ![](<../../../../.gitbook/assets/image (23).png>)
+![](<../../../../.gitbook/assets/image (14).png>)                               ![](<../../../../.gitbook/assets/image (1) (1).png>) ![](<../../../../.gitbook/assets/image (17).png>)                               ![](<../../../../.gitbook/assets/image (23).png>)
