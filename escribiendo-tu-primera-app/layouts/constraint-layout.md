@@ -633,9 +633,9 @@ Como podemos ver, es un layout a base de Views muy sencillo pero que permite uti
 ```
 {% endcode %}
 
-![](<../../.gitbook/assets/image (7).png>)                               ![](<../../.gitbook/assets/image (21).png>)
+![](<../../.gitbook/assets/image (7) (2).png>)                               ![](<../../.gitbook/assets/image (21).png>)
 
-![](<../../.gitbook/assets/image (2).png>)                               ![](<../../.gitbook/assets/image (9).png>)
+![](<../../.gitbook/assets/image (2) (1).png>)                               ![](<../../.gitbook/assets/image (9) (1).png>)
 
 &#x20;                                                     ![](<../../.gitbook/assets/image (11).png>)
 

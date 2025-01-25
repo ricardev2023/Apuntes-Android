@@ -49,7 +49,7 @@ Si utilizamos un Relative Layout sin darle ninguna posición relativa a los elem
 ```
 {% endcode %}
 
-&#x20;                                             ![](<../../.gitbook/assets/image (4).png>)
+&#x20;                                             ![](<../../.gitbook/assets/image (4) (2).png>)
 
 ## ATRIBUTOS
 

@@ -294,7 +294,7 @@ Tambien podemos personalizar los Chips para que se muestren iconos al inicio de 
 </com.google.android.material.chip.ChipGroup>
 ```
 
-![](<../../../../.gitbook/assets/image (78).png>)                            ![](<../../../../.gitbook/assets/image (6).png>)
+![](<../../../../.gitbook/assets/image (78).png>)                            ![](<../../../../.gitbook/assets/image (6) (1).png>)
 
 ### Listas de estados
 

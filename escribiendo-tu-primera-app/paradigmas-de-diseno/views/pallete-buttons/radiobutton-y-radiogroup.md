@@ -102,7 +102,7 @@ Si no asigno un `android:id` a cada uno de los `RadioButtons`, podré marcar tod
 Heredada de `CompoundButton`.
 
 {% embed url="https://developer.android.com/reference/android/widget/CompoundButton" %}
-[Fuente: developer.android](https://developer.android.com/reference/android/widget/CompoundButton#attr\_android:buttonTintMode)
+[Fuente: developer.android](https://developer.android.com/reference/android/widget/CompoundButton#attr_android:buttonTintMode)
 {% endembed %}
 
 Define el drawable que se va a utilizar en el gráfico del botón.
@@ -120,7 +120,7 @@ Hereda de `CompoundButton`.
 Define el modo en el que se va a aplicar ese "tinte" al drawable. Puede ser uno de varios valores constantes que se pueden ver definidos en el siguiente enlace:
 
 {% embed url="https://developer.android.com/reference/android/widget/CompoundButton#attr_android:buttonTintMode" %}
-[Fuente: developer.android](https://developer.android.com/reference/android/widget/CompoundButton#attr\_android:buttonTintMode)
+[Fuente: developer.android](https://developer.android.com/reference/android/widget/CompoundButton#attr_android:buttonTintMode)
 {% endembed %}
 
 ## ATRIBUTOS RADIOGROUP
@@ -237,7 +237,7 @@ class MainActivity : AppCompatActivity() {
 
 ![](<../../../../.gitbook/assets/image (58).png>)                             ![](<../../../../.gitbook/assets/image (18).png>)
 
-![](<../../../../.gitbook/assets/image (84).png>)                             ![](<../../../../.gitbook/assets/image (5).png>)
+![](<../../../../.gitbook/assets/image (84).png>)                             ![](<../../../../.gitbook/assets/image (5) (1).png>)
 
 ## PERSONALIZACIÓN
 

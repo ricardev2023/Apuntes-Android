@@ -243,8 +243,8 @@ Con Linear Layout se puede aplicar una pequeña parte de estos diseños responsi
 ```
 {% endcode %}
 
-&#x20;                                               ![](<../../.gitbook/assets/image (3).png>)
+&#x20;                                               ![](<../../.gitbook/assets/image (3) (1).png>)
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 Como podemos ver, en este caso si que se ven todos los elementos con las mismas proporciones se coloque como se coloque el dispositivo.

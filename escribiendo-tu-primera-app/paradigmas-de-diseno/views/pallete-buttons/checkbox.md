@@ -130,7 +130,7 @@ class MainActivity : AppCompatActivity() {
 Como ven, también se pueden utilizar estructuras de datos como listas de Kotlin para hacer referencia a varias `Views` aunque no se encuentren en el mismo `ViewGroup`.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (3) (1).png>)                              ![](<../../../../.gitbook/assets/image (41).png>)
+![](<../../../../.gitbook/assets/image (3) (1) (1).png>)                              ![](<../../../../.gitbook/assets/image (41).png>)
 
 ## PERSONALIZACIÓN
 
